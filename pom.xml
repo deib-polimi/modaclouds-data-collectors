@@ -120,7 +120,7 @@
 		<dependency>
 			<groupId>it.polimi.tower4clouds</groupId>
 			<artifactId>data-collector-library</artifactId>
-			<version>0.3</version>
+			<version>0.3.1</version>
 		</dependency>
 	</dependencies>
 
